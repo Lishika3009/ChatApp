@@ -7,8 +7,8 @@
 ### Installation
 
 ```shell
-git clone https://github.com/koolkishan/chat-app-react-nodejs
-cd chat-app-react-nodejs
+git clone https://github.com/Lishika3009/ChatApp
+cd ChatApp
 ```
 Now rename env files from .env.example to .env
 
