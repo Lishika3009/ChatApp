@@ -2,7 +2,8 @@
 
 ![login page](./images/snappy_login.png)
 
-![home page](./images/snappy.png)
+![image](https://github.com/Lishika3009/ChatApp/assets/129992113/35f56627-ca0a-4b72-be3d-8e4d944a5821)
+
 
 ### Installation
 
