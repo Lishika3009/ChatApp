@@ -1,6 +1,6 @@
 # Snappy - Chat Application 
 
-![login page](./images/snappy_login.png)
+![image](https://github.com/Lishika3009/ChatApp/assets/129992113/7f426e61-77af-4d23-9e8d-28e032e44c4c)
 
 ![image](https://github.com/Lishika3009/ChatApp/assets/129992113/35f56627-ca0a-4b72-be3d-8e4d944a5821)
 
